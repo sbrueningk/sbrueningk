@@ -1,3 +1,5 @@
+![image of me][1]
+
 ## About me
 
 I am a postdoctoral researcher working on the interface computational biology, machine learning and oncology in the [MLCB lab](https://bsse.ethz.ch/mlcb) at ETH Zurich. My expertise in both, practical biological lab work and computational implementations sets me apart from other computational biologists. This experience and my motivation to further scientific progress enable me to pursue challenging projects where multidisciplinary work is key. 
