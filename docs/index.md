@@ -21,14 +21,28 @@ Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/files/
 ## Research interests
 For a complete and up-to-date list of my publications, please check out my [Google Scholar profile](https://scholar.google.com/citations?user=Wio1KtsAAAAJ&hl=en).
 
+<img align="left" src="https://user-images.githubusercontent.com/54959592/100927903-cc9e1780-34e5-11eb-9be5-87cd54018bf5.png" alt=test width=150 height=150>
+
 ### Alzheimer's Diesease Classification from MRIs
 This it my main topic of my current Postdoc where I am investigating deep convolutional neural networks for the identification of imaging biomarkers of Alzheimer's Disease. Check out our [preprint on arXiv](https://arxiv.org/abs/2011.06531). This work will also be presented at this year's [Neurips ML4H workshop](https://ml4health.github.io/2020/) and [Medical Imaging Meets Neurips workshop](https://sites.google.com/view/med-neurips-2020). 
+  
+<br>
+<img align="left" src="https://user-images.githubusercontent.com/54959592/100928293-4cc47d00-34e6-11eb-8f04-39b697737dbe.png" alt=test width=150 height=150>
+
 
 ### High reolution Sars-CoV2 modelling in a city
 This collaboration with the Unispital Basel is aiming to analyse the spatio-temporal spread of the Sars-CoV2 epidemic in the city of Basel. We base our simulations on a SEIR-model together with dynamic information on within city mobility, social interactions, and the socioeconomic structure of the city. 
 
+<br>
+<img align="left" src="https://user-images.githubusercontent.com/54959592/100929177-82b63100-34e7-11eb-8e3b-220c6216df82.png" alt=test width=150 height=150>
+
+
 ### Intermittent Radiotherapy for recurrent high grade gliomas
 This project is a collaboration with Dr. Heiko Enderling and Jeff Peakock, MD at the Moffitt Cancer center, Tampa, FL. We started this project at the 2019 [IMO workshop](http://blog.mathematical-oncology.org/IMO-workshop-a-history.html) and are investigating intermittent radiotherapy as an alternative, palliative treatment to hypofractionated stereotactic radio surgery for recurrent high grade glioma patients. This work was presented at [SMB in August 2020](https://smb2020.org/wednesday/#MS2), stay tuned for our publication which is in the late stages of preparation. 
+
+<br>
+<img align="left" src="https://user-images.githubusercontent.com/54959592/100929746-649d0080-34e8-11eb-90ae-0618298082aa.png" alt=test width=150 height=150>
+
 
 ### Combination treatments of radiation and hyperthemia delivered by focused ultrasound
 This is the work I did during my PhD - have a look at the publications resulting from it: I designed and experimental set-up to perform [in vitro focused ultrasound experiments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6878221/), developped a [cell survivial model](https://www.tandfonline.com/doi/abs/10.1080/02656736.2017.1341059) quantifying the biological effects of radition and hyperthermia, studied the reponse of [3D tumour spheroids](https://www.nature.com/articles/s41598-020-58569-4) to these combination treatments, and also implemented a cellular automaton framework simulating the dynamic response of [2D](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0681) and [3D](https://www.nature.com/articles/s41598-019-54117-x) cell cultures under radition and hyperthermia treatments. 
