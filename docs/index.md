@@ -1,4 +1,5 @@
-![image of me][1]
+
+<img src="https://user-images.githubusercontent.com/54959592/100919631-5811ab80-34da-11eb-8282-0950e362eeb7.jpeg" alt=test width=300 height=300>
 
 ## About me
 
@@ -10,4 +11,4 @@ For a complete and up-to-date list of my publications, please check out my [Goog
 
 
 
-[1]: https://user-images.githubusercontent.com/54959592/100917405-66aa9380-34d7-11eb-82cd-eb279c1da7b3.JPG
+[1]: https://user-images.githubusercontent.com/54959592/100919631-5811ab80-34da-11eb-8282-0950e362eeb7.jpeg
