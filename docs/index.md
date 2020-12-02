@@ -1,10 +1,15 @@
 
 <img src="https://user-images.githubusercontent.com/54959592/100919631-5811ab80-34da-11eb-8282-0950e362eeb7.jpeg" alt=test width=300 height=300>
 
+## Contact Details
+
+sarah.brueningk@bsse.ethz.ch
+
 ## About me
 
 I am a postdoctoral researcher working on the interface computational biology, machine learning and oncology in the [MLCB lab](https://bsse.ethz.ch/mlcb) of Prof. K. Borgwardt at ETH Zurich. My expertise in both, practical biological lab work and computational implementations sets me apart from other computational biologists. This experience and my motivation to further scientific progress enable me to pursue challenging projects where multidisciplinary work is key. 
-My current 
+My current projects span a range of topics including the prediction of Alzheimer's disease using deep convolutional neural networks and the modelling of the Sars-CoV2 epidemic in the city of Basel. 
+Before joining ETH Zurich I did my Phd at the Institute of Cancer Reseach under the supervision of Prof. Gail terHaar and Prof. Uwe Oelfke on the topic of analysis and simulation of combination treatments of radiation and focused ultrasound mediated heating. 
 
 Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/files/5631559/CV_SBrueningk.pdf) and [list of awards/conference contributions](https://github.com/sbrueningk/sbrueningk.github.io/files/5631568/Publications_SBrueningk.pdf) :)
 
@@ -20,6 +25,8 @@ This collaboration with the Unispital Basel is aiming to analyse the spatio-temp
 
 ### Intermittent Radiotherapy for recurrent high grade gliomas
 Check-out my presentation at SMB in August 2020. 
-### 3D tumour spheroids of quantification of radiotherapy and hyperthermia treatments
+
+### Combination treatments of radiation and hyperthemia delivered by focused ultrasound
+Have a look at my PhD thesis!
 
 [1]: https://user-images.githubusercontent.com/54959592/100919631-5811ab80-34da-11eb-8282-0950e362eeb7.jpeg
