@@ -41,7 +41,7 @@ This collaboration with the Unispital Basel is aiming to analyse the spatio-temp
 This project is a collaboration with Dr. Heiko Enderling and Jeff Peakock, MD at the Moffitt Cancer center, Tampa, FL. We started this project at the 2019 [IMO workshop](http://blog.mathematical-oncology.org/IMO-workshop-a-history.html) and are investigating intermittent radiotherapy as an alternative, palliative treatment to hypofractionated stereotactic radio surgery for recurrent high grade glioma patients. This work was presented at [SMB in August 2020](https://smb2020.org/wednesday/#MS2), stay tuned for our publication which is in the late stages of preparation. 
 
 <br>
-<img align="left" src="https://user-images.githubusercontent.com/54959592/100929746-649d0080-34e8-11eb-90ae-0618298082aa.png" alt=test width=150 height=150>
+<img align="left" src="https://user-images.githubusercontent.com/54959592/100930202-0a506f80-34e9-11eb-8c41-27fb051d0bbc.png" alt=test width=150 height=150>
 
 
 ### Combination treatments of radiation and hyperthemia delivered by focused ultrasound
