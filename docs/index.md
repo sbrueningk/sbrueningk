@@ -1,5 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/54959592/100919631-5811ab80-34da-11eb-8282-0950e362eeb7.jpeg" alt=test width=300 height=300 align="center">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54959592/100919631-5811ab80-34da-11eb-8282-0950e362eeb7.jpeg" alt=test width=300 height=300>
+</p>
 
 ## Contact Details
 
