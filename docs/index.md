@@ -1,37 +1,11 @@
-## Welcome to my personal website
+## About me
 
-This is a link to my linked in profile [editor on GitHub](https://www.linkedin.com/in/sarah-br%C3%BCningk-9884aa158/) 
+I am a postdoctoral researcher working on the interface computational biology, machine learning and oncology in the [MLCB lab](https://bsse.ethz.ch/mlcb) at ETH Zurich. My expertise in both, practical biological lab work and computational implementations sets me apart from other computational biologists. This experience and my motivation to further scientific progress enable me to pursue challenging projects where multidisciplinary work is key. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Research interests
+For a complete and up-to-date list of my publications, please check out my [Google Scholar profile](https://scholar.google.com/citations?user=Wio1KtsAAAAJ&hl=en).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbrueningk/sbrueningk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
