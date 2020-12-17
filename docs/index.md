@@ -34,7 +34,7 @@ This is the main topic of my current Postdoc where I am investigating deep convo
 
 
 ### High reolution Sars-CoV2 modelling in a city
-This collaboration with the Unispital Basel aims to analyse the spatio-temporal spread of the Sars-CoV2 epidemic in the city of Basel to use the obtained information to guide vaccination scenarios. We base our simulations on a SEIR-model together with dynamic information on within city mobility, social interactions, and the socioeconomic structure of the city. This work has now been submitted for publication and will soon be published on medrXive.
+This collaboration with the Unispital Basel aims to analyse the spatio-temporal spread of the Sars-CoV2 epidemic in the city of Basel to use the obtained information to guide vaccination scenarios. We base our simulations on a SEIR-model together with dynamic information on within city mobility, social interactions, and the socioeconomic structure of the city. This work has now been submitted for publication and now published on [medrXive](https://medrxiv.org/cgi/content/short/2020.12.15.20248130v1).
 
 <br>
 <img align="left" src="https://user-images.githubusercontent.com/54959592/100929177-82b63100-34e7-11eb-8e3b-220c6216df82.png" alt=test width=150 height=150>
