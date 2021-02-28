@@ -14,11 +14,11 @@ sarah.brueningk@bsse.ethz.ch
 
 I am a postdoctoral researcher working on the interface of computational biology, machine learning and oncology in the [MLCB lab](https://bsse.ethz.ch/mlcb) of Prof. K. Borgwardt at ETH Zurich. My expertise in both, practical biological lab work and computational implementations sets me apart from other computational biologists. This experience and my motivation to further scientific progress enable me to pursue challenging projects where multidisciplinary work is key. 
 
-My current projects span a range of topics including the prediction of Alzheimer's disease using deep convolutional neural networks, the modelling of the Sars-CoV2 epidemic in the city of Basel, and the simultion of intermittent treatments for recurrent high grade glioma patients. 
+My current projects span a range of topics including the prediction of Alzheimer's disease using deep convolutional neural networks, the modelling of the Sars-CoV-2 epidemic in the city of Basel, and the simultion of intermittent treatments for recurrent high grade glioma patients. 
 
 Before joining ETH Zurich I completed my Phd at the [Institute of Cancer Reseach](https://www.icr.ac.uk/) under the supervision of Prof. Gail terHaar and Prof. Uwe Oelfke on the topic of analysis and simulation of combination treatments of radiation and focused ultrasound mediated heating. 
 
-Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/files/5631559/CV_SBrueningk.pdf) and [list of awards and conference contributions](https://github.com/sbrueningk/sbrueningk.github.io/files/5631568/Publications_SBrueningk.pdf) :)
+Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/files/5631559/CV_SBrueningk.pdf) and [list of awards and conference contributions](https://github.com/sbrueningk/sbrueningk.github.io/blob/main/docs/Publications_SBrueningk.pdf).
 
 
 ## Research interests
