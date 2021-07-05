@@ -27,14 +27,14 @@ For a complete and up-to-date list of my publications, please check out my [Goog
 <img align="left" src="https://user-images.githubusercontent.com/54959592/100927903-cc9e1780-34e5-11eb-9be5-87cd54018bf5.png" alt=test width=150 height=150>
 
 ### Alzheimer's Diesease Classification from MRIs
-This is the main topic of my current Postdoc where I am investigating deep convolutional neural networks for the identification of imaging biomarkers of Alzheimer's Disease. Check out our [preprint on arXiv](https://arxiv.org/abs/2011.06531). This work was also be presented at this year's [Neurips ML4H workshop](https://ml4health.github.io/2020/) and [Medical Imaging Meets Neurips workshop](https://sites.google.com/view/med-neurips-2020). 
+This is the main topic of my current Postdoc where I am investigating deep convolutional neural networks for the identification of imaging biomarkers of Alzheimer's Disease. Check out our [preprint on arXiv](https://arxiv.org/abs/2011.06531). This work was also be presented at this year's [Neurips ML4H workshop](https://ml4health.github.io/2020/) and [Medical Imaging Meets Neurips workshop](https://sites.google.com/view/med-neurips-2020). We will now present an extension of this project at the 2021 [Machine Learning for Healthcare conference](https://www.mlforhc.org/), too.
   
 <br>
 <img align="left" src="https://user-images.githubusercontent.com/54959592/100928293-4cc47d00-34e6-11eb-8f04-39b697737dbe.png" alt=test width=150 height=150>
 
 
-### High reolution Sars-CoV2 modelling in a city
-This collaboration with the Unispital Basel aims to analyse the spatio-temporal spread of the Sars-CoV2 epidemic in the city of Basel to use the obtained information to guide vaccination scenarios. We base our simulations on a SEIR-model together with dynamic information on within city mobility, social interactions, and the socioeconomic structure of the city. This work has now been submitted for publication and now published on [medrXive](https://medrxiv.org/cgi/content/short/2020.12.15.20248130v1).
+### High resolution Sars-CoV2 modelling in a city
+This collaboration with the Unispital Basel aims to analyse the spatio-temporal spread of the Sars-CoV2 epidemic in the city of Basel to use the obtained information to guide vaccination scenarios. We base our simulations on a SEIR-model together with dynamic information on within city mobility, social interactions, and the socioeconomic structure of the city. This work has now been submitted for publication and a preprint is available on [medrXive](https://medrxiv.org/cgi/content/short/2020.12.15.20248130v1). I am also excited to present our project at the [2021 ECCMID conference](https://www.eccmid.org/)!
 
 <br>
 <img align="left" src="https://user-images.githubusercontent.com/54959592/100929177-82b63100-34e7-11eb-8e3b-220c6216df82.png" alt=test width=150 height=150>
