@@ -18,7 +18,7 @@ My current projects span a range of topics including the prediction of Alzheimer
 
 Before joining ETH Zurich I completed my Phd at the [Institute of Cancer Reseach](https://www.icr.ac.uk/) under the supervision of Prof. Gail terHaar and Prof. Uwe Oelfke on the topic of analysis and simulation of combination treatments of radiation and focused ultrasound mediated heating. 
 
-Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/files/5631559/CV_SBrueningk.pdf) and [list of awards and conference contributions](https://github.com/sbrueningk/sbrueningk.github.io/blob/main/docs/Publications_SBrueningk.pdf).
+Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/blob/main/docs/CV_SBrueningk.pdf) and [list of awards and conference contributions](https://github.com/sbrueningk/sbrueningk.github.io/blob/main/docs/Publications_SBrueningk.pdf).
 
 
 ## Research interests
