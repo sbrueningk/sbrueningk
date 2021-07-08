@@ -16,7 +16,7 @@ I am a postdoctoral researcher working on the interface of computational biology
 
 My current projects span a range of topics including the prediction of Alzheimer's disease using deep convolutional neural networks, the modelling of the Sars-CoV-2 epidemic in the city of Basel, and the simultion of intermittent treatments for recurrent high grade glioma patients. I was recently awarded a postdoctoral fellowship by the [Botnar Research Centre for Child Health](https://brc.ch/early-career-researchers/) and am excited to start my work on image-based classification of radiotherapy response in pediatric brain tumours (diffuse midline glioma) this autumn!
 
-Before joining ETH Zurich I completed my Phd at the [Institute of Cancer Reseach](https://www.icr.ac.uk/) under the supervision of Prof. Gail terHaar and Prof. Uwe Oelfke on the topic of analysis and simulation of combination treatments of radiation and focused ultrasound mediated heating. 
+Before joining ETH Zurich I completed my Phd at the [Institute of Cancer Research](https://www.icr.ac.uk/) under the supervision of Prof. Gail terHaar and Prof. Uwe Oelfke on the topic of analysis and simulation of combination treatments of radiation and focused ultrasound mediated heating. 
 
 Have a look at my [CV](https://github.com/sbrueningk/sbrueningk.github.io/blob/main/docs/CV_SBrueningk.pdf) and [list of awards and conference contributions](https://github.com/sbrueningk/sbrueningk.github.io/blob/main/docs/Publications_SBrueningk.pdf).
 
